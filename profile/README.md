@@ -9,8 +9,8 @@ We specialize in **Angular, StencilJS, NestJS, MEAN Stack, and AI-driven applica
 - ⚙️ **Optimizing Frontend Performance with Modern Frameworks**  
 
 ## 🔥 Featured Projects  
-🚀 [AI Chatbot with StencilJS](https://github.com/your-org/ai-chatbot)  
-⚡ [Dynamic Forms with JSON Schema](https://github.com/your-org/dynamic-forms)  
+🚀 [AI Chatbot with StencilJS](https://www.npmjs.com/package/stenciljs-components)  
+⚡ [Dynamic Forms with JSON Schema](https://www.npmjs.com/package/stenciljs-components)  
 
 ## 🛠 Tech Stack  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
