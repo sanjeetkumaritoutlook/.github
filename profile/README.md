@@ -15,7 +15,7 @@ We specialize in **Angular, StencilJS, NestJS, MEAN Stack, and AI-driven applica
 ## 🛠 Tech Stack  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
 ![StencilJS](https://img.shields.io/badge/StencilJS-FFCA28?style=for-the-badge&logo=webcomponentsdotorg&logoColor=black)  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 🤝 Join Us  
