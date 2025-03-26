@@ -1,7 +1,7 @@
 # 👋 Welcome to Sanjeet Kumar  Org!
 
 🚀 **We Build Scalable and Efficient Web Solutions**  
-We specialize in **Angular, StencilJS, NestJS, MEAN Stack, and AI-driven applications**.  
+We specialize in **Angular, StencilJS, React, MEAN Stack, and AI-driven applications**.  
 
 ## 💡 What We Do  
 - 🏗 **Building Web Components & AI Chatbots**  
