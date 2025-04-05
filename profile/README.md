@@ -5,7 +5,7 @@ We specialize in **Angular, StencilJS, React, MEAN Stack, and AI-driven applicat
 
 ## 💡 What We Do  
 - 🏗 **Building Web Components & AI Chatbots**  
-- 🌍 **Cloud & Serverless Architectures (Google Cloud, AWS, Azure)**  
+- 🌍 **Cloud & Serverless Architectures (AWS)**  
 - ⚙️ **Optimizing Frontend Performance with Modern Frameworks**  
 
 ## 🔥 Featured Projects  
