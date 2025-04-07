@@ -9,7 +9,7 @@ We specialize in **Angular, StencilJS, React, MEAN Stack, and AI-driven applicat
 - ⚙️ **Optimizing Frontend Performance with Modern Frameworks**  
 
 ## 🔥 Featured Projects  
-🚀 [AI Chatbot with StencilJS](https://www.npmjs.com/package/stenciljs-components)  
+🚀 [Github Profile Viewer](https://user-profile-viewer-github.netlify.app/)  
 ⚡ [Space Dashboard](https://space-dashboard-ivory.vercel.app/)  
 
 ## 🛠 Tech Stack  
