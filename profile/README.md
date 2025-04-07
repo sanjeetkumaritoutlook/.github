@@ -10,7 +10,7 @@ We specialize in **Angular, StencilJS, React, MEAN Stack, and AI-driven applicat
 
 ## 🔥 Featured Projects  
 🚀 [AI Chatbot with StencilJS](https://www.npmjs.com/package/stenciljs-components)  
-⚡ [Dynamic Forms with JSON Schema](https://www.npmjs.com/package/stenciljs-components)  
+⚡ [Space Dashboard](https://space-dashboard-ivory.vercel.app/)  
 
 ## 🛠 Tech Stack  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
