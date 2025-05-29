@@ -22,4 +22,4 @@ We specialize in **Angular, StencilJS, React, MEAN Stack, and AI-driven applicat
 📢 We are open to **collaborations and contributions**! Feel free to explore our work.  
 
 🔗 **Follow us:**  
-[GitHub Organization](https://github.com/sanjeetkumaritoutlook) | [GitHub Enterprise] (https://github.com/enterprises/sanjeetkumaritoutlook)  | [Website](https://sanjeetkumarit.netlify.app/)
+[GitHub Organization](https://github.com/sanjeetkumaritoutlook) | [GitHub Enterprise](https://github.com/enterprises/sanjeetkumaritoutlook)  | [Website](https://sanjeetkumarit.netlify.app/)
