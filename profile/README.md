@@ -11,11 +11,13 @@ We specialize in **Angular, StencilJS, React, MEAN Stack, and AI-driven applicat
 ## 🔥 Featured Projects  
 🚀 [Github Profile Viewer](https://user-profile-viewer-github.netlify.app/)  
 ⚡ [Space Dashboard](https://space-dashboard-ivory.vercel.app/)  
+⚡ [Multi-agent](https://insurance-multi-agent-demo.onrender.com/)
 
 ## 🛠 Tech Stack  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
 ![StencilJS](https://img.shields.io/badge/StencilJS-FFCA28?style=for-the-badge&logo=webcomponentsdotorg&logoColor=black)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 🤝 Join Us  
