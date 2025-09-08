@@ -1,7 +1,7 @@
 # <a href="https://sanjeetkumaritoutlook.github.io/" target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Welcome to Sanjeet Kumar  Org!
 
 🚀 **We Build Scalable and Efficient Web Solutions**  
-We specialize in **Angular, StencilJS, React, MEAN Stack, and AI-driven applications**.  
+We specialize in **Angular, StencilJS, Python, React, MEAN Stack, and AI-driven applications**.  
 
 ## 💡 What We Do  
 - 🏗 **Building Web Components & AI Chatbots**  
@@ -11,6 +11,7 @@ We specialize in **Angular, StencilJS, React, MEAN Stack, and AI-driven applicat
 ## 🔥 Featured Projects  
 🚀 [Github Profile Viewer](https://user-profile-viewer-github.netlify.app/)  
 ⚡ [Space Dashboard](https://space-dashboard-ivory.vercel.app/)  
+⚡ [Streamlit Dashboard](https://streamlit-enterprise-app.onrender.com/)
 ⚡ [Multi-agent](https://insurance-multi-agent-demo.onrender.com/)
 
 ## 🛠 Tech Stack  
