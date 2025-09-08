@@ -11,7 +11,7 @@ We specialize in **Angular, StencilJS, Python, React, MEAN Stack, and AI-driven 
 ## 🔥 Featured Projects  
 🚀 [Github Profile Viewer](https://user-profile-viewer-github.netlify.app/)  
 ⚡ [Space Dashboard](https://space-dashboard-ivory.vercel.app/)  
-⚡ [Streamlit Dashboard](https://streamlit-enterprise-app.onrender.com/)
+⚡ [Streamlit Dashboard](https://analyticsenterpriseapp.streamlit.app/)
 ⚡ [Multi-agent](https://insurance-multi-agent-demo.onrender.com/)
 
 ## 🛠 Tech Stack  
